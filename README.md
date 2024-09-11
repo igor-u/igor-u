@@ -2,8 +2,8 @@
 | ------------- | ------------- |
 <html>
     <p align="center">
-      <a href="mailto:igor.ribeiro2334@gmail.com"><img src="https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail" alt="Gmail"/></a>
-      <a href="https://www.linkedin.com/in/igorribeiro12/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igorribeiro12" alt="LinkedIn"/></a>
+      <a href="mailto:igor.ribeiro2334@gmail.com"><img src="assets/Gmail.svg" alt="Gmail"/></a>
+      <a href="https://www.linkedin.com/in/igorribeiro12/"><img src="assets/LinkedIn.svg" alt="LinkedIn"/></a>
   </p>
 </body>
 </html>
