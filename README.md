@@ -3,11 +3,14 @@
 * Desenvolvo meu conhecimento teórico e minhas habilidades de programação;
 * O trabalho em equipe é fortemente incentivado. Busco ser comunicativo e usar linguagem clara;
 * Atualmente estou aprendendo sobre PL/SQL, linguagem de programação de banco de dados.
+
 ---
+
 ### 📚 Aluno da Ada Tech pelo Programa Santander Coders
 #### Curso online - remoto e síncrono
 * Participante da trilha DevOps;
 * Atualmente estou aprendendo sobre Linux, Git, redes, conteinerização e serviços de computação em nuvem (AWS).
+
 ---
 
 ### 📊 GitHub Stats
@@ -24,5 +27,6 @@
 </html>
 
 ---
+
 ### 💬 Contato
 [![Gmail](assets/Gmail.svg)](mailto:igor.ribeiro2334@gmail.com) [![LinkedIn](assets/LinkedIn.svg)](https://www.linkedin.com/in/igorribeiro12/)
