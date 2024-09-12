@@ -20,8 +20,8 @@
     
 <div align="center">
     
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=igor-u&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show=prs_merged&rank_icon=github&bg_color=000000&hide_title=true" alt="Igor Ribeiro's GitHub Stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&bg_color=000000&hide_title=true" alt="Most Used Languages"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=igor-u&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show=prs_merged&rank_icon=github&bg_color=000000" alt="Igor Ribeiro's GitHub Stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&bg_color=000000" alt="Most Used Languages"/>
   
 </div>
     
