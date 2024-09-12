@@ -2,7 +2,7 @@
 #### Graduação remota orientada a projetos
 * Desenvolvo meu conhecimento teórico e minhas habilidades de programação;
 * O trabalho em equipe é fortemente incentivado. Busco ser comunicativo e usar linguagem clara;
-* Atualmente estou aprendendo sobre PL/SQL, linguagem de programação de banco de dados.
+* Atualmente estou aprendendo sobre PL/SQL - linguagem de programação de banco de dados.
 
 ---
 
