@@ -7,7 +7,7 @@
 ---
 
 ### 📚 Aluno da Ada Tech pelo Programa Santander Coders
-#### Curso online - remoto e síncrono
+#### Curso online síncrono
 * Participante da trilha DevOps;
 * Atualmente estou aprendendo sobre Linux, Git, redes, conteinerização e serviços de computação em nuvem (AWS).
 
