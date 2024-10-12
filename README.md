@@ -2,7 +2,7 @@
 #### Graduação remota orientada a projetos
 * Desenvolvo meu conhecimento teórico e minhas habilidades de programação;
 * O trabalho em equipe é fortemente incentivado. Busco ser comunicativo e usar linguagem clara;
-* Atualmente estou aprendendo sobre PL/SQL.
+* Atualmente estou aprendendo sobre microsserviços e APIs RESTful.
 
 ---
 
@@ -20,8 +20,8 @@
     
 <div align="center">
     
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=igor-u&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show=prs_merged&rank_icon=github&bg_color=000000" alt="Igor Ribeiro's GitHub Stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&bg_color=000000" alt="Most Used Languages"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=igor-u&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&show=prs_merged&rank_icon=github&bg_color=000000&title_color=6A00FF&text_color=DBDBDB" alt="Igor Ribeiro's GitHub Stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=donut&bg_color=000000&title_color=6A00FF&text_color=DBDBDB" alt="Most Used Languages"/>
   
 </div>
     
