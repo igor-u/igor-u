@@ -1,3 +1,7 @@
+![Igor Ribeiro's GitHub Banner](assets/welcome.gif)
+
+---
+
 ### 📚 Aluno de Análise e Desenvolvimento de Sistemas na FIAP ON
 #### Graduação remota orientada a projetos
 * Desenvolvo meu conhecimento teórico e minhas habilidades de programação;
