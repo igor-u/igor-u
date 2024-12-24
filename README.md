@@ -2,9 +2,9 @@
 
 ---
 
-### ${\color{#ED1165}\text{FIAP ON}}$
+$\Large{\color{#ED1165}\text{FIAP ON}}$
 <details>
-<summary>${\color{#DBDBDB}\text{Análise e Desenvolvimento de Sistemas}}$</summary>
+<summary>$\large{\color{#DBDBDB}\text{Análise e Desenvolvimento de Sistemas}}$</summary>
 <br>
 <b>Graduação remota orientada a projetos</b>
 
@@ -21,10 +21,10 @@ Em andamento<br>
 
 ---
 
-### ${\color{#A8F750}\text{Ada Tech}}$
+$\Large{\color{#A8F750}\text{Ada Tech}}$
 
 <details>
-<summary>${\color{#DBDBDB}\text{Java}}$</summary>
+<summary>$\large{\color{#DBDBDB}\text{Java}}$</summary>
 <br>
 <b>Formação online síncrona</b>
 
@@ -48,7 +48,7 @@ Data de conclusão: 22/05/2024<br>
 
 
 <details>
-<summary>${\color{#DBDBDB}\text{DevOps}}$</summary>
+<summary>$\large{\color{#DBDBDB}\text{DevOps}}$</summary>
 <br>
 <b>Formação online síncrona</b>
 
@@ -95,10 +95,10 @@ Data de conclusão: 04/12/2024<br>
 </details>
 
 ---
-### ${\color{#DBDBDB}\text{Estatísticas do GitHub}}$
-<html>
 
-<body>
+<details>
+<summary>$\Large{\color{#DBDBDB}\text{Estatísticas do GitHub}}$</summary>
+<br>
     
 <div align="center">
     
@@ -106,11 +106,19 @@ Data de conclusão: 04/12/2024<br>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10&bg_color=000000&title_color=AD0000&text_color=DBDBDB" alt="Most Used Languages"/>
   
 </div>
-    
-</body>
 
-</html>
+</details>
 
 ---
-### ${\color{#DBDBDB}\text{Contato}}$
-[![Gmail](assets/Gmail.svg)](mailto:igor.ribeiro2334@gmail.com) [![LinkedIn](assets/LinkedIn.svg)](https://www.linkedin.com/in/igorribeiro12/)
+
+<details>
+<summary>$\Large{\color{#DBDBDB}\text{Contato}}$</summary>
+    <br>
+    <a href="mailto:igor.ribeiro2334@gmail.com">
+    <img height=25 src="assets/Gmail.svg" >
+    </a>
+    <br>
+    <a  href="https://www.linkedin.com/in/igorribeiro12/">
+    <img height=25 src="assets/LinkedIn.svg">
+    </a>
+</details>
