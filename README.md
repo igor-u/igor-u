@@ -115,10 +115,10 @@ Data de conclusão: 04/12/2024<br>
 <summary>$\Large{\color{#DBDBDB}\text{Contato}}$</summary>
     <br>
     <a href="mailto:igor.ribeiro2334@gmail.com">
-    <img height=25 src="assets/Gmail.svg" >
+    <img height=20 src="assets/Gmail.svg" >
     </a>
     <br>
     <a  href="https://www.linkedin.com/in/igorribeiro12/">
-    <img height=25 src="assets/LinkedIn.svg">
+    <img height=20 src="assets/LinkedIn.svg">
     </a>
 </details>
