@@ -2,7 +2,10 @@
 
 ---
 
-$\Large{\color{#ED1165}\text{FIAP ON}}$
+
+| $\Large{\color{#AD0000}\text{FIAP ON}}$ |
+|---|
+
 <details>
 <summary>$\large{\color{#DBDBDB}\text{Análise e Desenvolvimento de Sistemas}}$</summary>
 <br>
@@ -21,7 +24,8 @@ Em andamento<br>
 
 ---
 
-$\Large{\color{#A8F750}\text{Ada Tech}}$
+| $\Large{\color{#AD0000}\text{Ada Tech}}$ |
+|---|
 
 <details>
 <summary>$\large{\color{#DBDBDB}\text{Java}}$</summary>
