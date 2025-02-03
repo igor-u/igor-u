@@ -1,8 +1,3 @@
-![Igor Ribeiro's GitHub Banner](assets/welcome.gif )
-
----
-
-
 | $\Large{\color{#AD0000}\text{FIAP ON}}$ |
 |---|
 
