@@ -101,8 +101,8 @@ Data de conclusão: 04/12/2024<br>
     
 <div align="center">
     
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=igor-u&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&show=prs_merged&rank_icon=github&text_bold=false&bg_color=000000&title_color=AF7848&text_color=DBDBDB" alt="Igor Ribeiro's GitHub Stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10&bg_color=000000&title_color=AF7848&text_color=DBDBDB" alt="Most Used Languages"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=igor-u&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&show=prs_merged&rank_icon=github&text_bold=false&bg_color=000000&title_color=DBDBDB&text_color=DBDBDB" alt="Igor Ribeiro's GitHub Stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-u&hide_progress=false&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10&bg_color=000000&title_color=DBDBDB&text_color=DBDBDB" alt="Most Used Languages"/>
   
 </div>
 
