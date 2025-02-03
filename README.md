@@ -1,4 +1,4 @@
-| $\Large{\color{#AF7848}\text{FIAP ON}}$ |
+| $\Large{\color{#DBDBDB}\text{FIAP ON}}$ |
 |---|
 
 <details>
@@ -19,7 +19,7 @@ Em andamento<br>
 
 ---
 
-| $\Large{\color{#AF7848}\text{Ada Tech}}$ |
+| $\Large{\color{#DBDBDB}\text{Ada Tech}}$ |
 |---|
 
 <details>
