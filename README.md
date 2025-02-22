@@ -14,7 +14,43 @@ Em andamento<br>
 
 * Desenvolvo meu conhecimento teórico e minhas habilidades de programação;
 * O trabalho em equipe é fortemente incentivado. Busco ser comunicativo e usar linguagem clara;
-* Atualmente estou aprendendo sobre microsserviços e APIs RESTful.  
+* Atualmente estou aprendendo sobre microsserviços e APIs RESTful.
+
+<details>
+<summary>Nano Courses</summary>
+<br>
+
+* Algoritmos: Aprenda a programar
+* Banco de Dados Oracle
+* Big Data
+* Big Data & Analytics
+* Blockchain
+* Cloud Fundamentals, Administration and Solution Architect
+* Códigos de Alta Performance
+* Comunicação e Semiótica
+* Cybersecurity
+* Data Visualization
+* DevOps & Agile Culture
+* Engenharia de Software
+* Estatística para Soluções em TI
+* Estruturas de Computadores
+* Design Thinking
+* Infraestrutura e Interconectividade
+* Inteligência Artificial e Computacional
+* Java Advanced Frameworks
+* Java Fundamentos
+* Leadership Communication
+* Linux Fundamentos
+* Programação em Banco de Dados
+* Python
+* Resolvendo Problemas com Matemática
+* Responsive Web Development
+* Sensores e Circuitos Digitais
+* Soluções Tecnológicas Emergentes
+* User Experience
+
+</details>
+
 </details>
 
 ---
