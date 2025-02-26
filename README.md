@@ -2,7 +2,7 @@
 |---|
 
 <details>
-<summary>$\large{\color{#DBDBDB}\text{Análise e Desenvolvimento de Sistemas}}$</summary>
+<summary>$\large{\text{Análise e Desenvolvimento de Sistemas}}$</summary>
 <br>
 <b>Graduação remota orientada a projetos</b>
 
@@ -59,7 +59,7 @@ Em andamento<br>
 |---|
 
 <details>
-<summary>$\large{\color{#DBDBDB}\text{Java}}$</summary>
+<summary>$\large{\text{Java}}$</summary>
 <br>
 <b>Formação online síncrona</b>
 
@@ -83,7 +83,7 @@ Data de conclusão: 22/05/2024<br>
 
 
 <details>
-<summary>$\large{\color{#DBDBDB}\text{DevOps}}$</summary>
+<summary>$\large{\text{DevOps}}$</summary>
 <br>
 <b>Formação online síncrona</b>
 
@@ -132,7 +132,7 @@ Data de conclusão: 04/12/2024<br>
 ---
 
 <details>
-<summary>$\Large{\color{#DBDBDB}\text{Estatísticas do GitHub}}$</summary>
+<summary>$\Large{\text{Estatísticas do GitHub}}$</summary>
 <br>
     
 <div align="center">
@@ -147,7 +147,7 @@ Data de conclusão: 04/12/2024<br>
 ---
 
 <details>
-<summary>$\Large{\color{#DBDBDB}\text{Contato}}$</summary>
+<summary>$\Large{\text{Contato}}$</summary>
     <br>
     <a href="mailto:igor.ribeiro2334@gmail.com">
     <img height=20 src="assets/Gmail.svg" >
