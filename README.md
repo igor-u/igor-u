@@ -29,6 +29,7 @@ Em andamento<br>
 * Códigos de Alta Performance
 * Comunicação e Semiótica
 * Cybersecurity
+* Cybersecurity Hacker Skills
 * Data Visualization
 * Design Thinking
 * DevOps & Agile Culture
