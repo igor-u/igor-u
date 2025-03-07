@@ -46,6 +46,7 @@ Em andamento<br>
 * Resolvendo Problemas com Matemática
 * Responsive Web Development
 * Sensores e Circuitos Digitais
+* Services Architecture / API / Mobile Architecture
 * Soluções Tecnológicas Emergentes
 * User Experience
 
