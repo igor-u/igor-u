@@ -30,11 +30,11 @@ Em andamento<br>
 * Comunicação e Semiótica
 * Cybersecurity
 * Data Visualization
+* Design Thinking
 * DevOps & Agile Culture
 * Engenharia de Software
 * Estatística para Soluções em TI
 * Estruturas de Computadores
-* Design Thinking
 * Infraestrutura e Interconectividade
 * Inteligência Artificial e Computacional
 * Java Advanced Frameworks
