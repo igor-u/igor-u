@@ -1,4 +1,4 @@
-| $\Large{\color{#ED1165}\text{FIAP ON}}$ |
+| $\Large{\color{#ED1165}\text{FIAP}}$ |
 |---|
 
 <details>
