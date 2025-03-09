@@ -4,7 +4,7 @@
 <details>
 <summary>$\large{\text{Análise e Desenvolvimento de Sistemas}}$</summary>
 <br>
-<b>Graduação remota orientada a projetos</b>
+<b>Graduação orientada a projetos</b>
 
 <br>Data de início: 15/08/2023
 <br>
