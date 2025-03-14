@@ -155,7 +155,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > |---|
 > 
 > <details>
-> <summary>▪️Tecnologia e desenvolvimento pessoal</summary>
+> <summary>▪️Tecnologia e Desenvolvimento Pessoal</summary>
 > <br>
 > 
 > * [Certificado de Conclusão](https://cursos.alura.com.br/user/igor-ribeiro2334/fullCertificate/9e0f7587c327aab62f9e18b0ba66617e)
