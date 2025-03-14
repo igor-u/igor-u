@@ -53,6 +53,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Infraestrutura e Interconectividade
 > * Inteligência Artificial e Computacional
 > * Java Advanced Frameworks
+> * Java Development 
 > * Java Fundamentos
 > * Leadership Communication
 > * Linux Fundamentos
