@@ -49,6 +49,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Engenharia de Software
 > * Estatística para Soluções em TI
 > * Estruturas de Computadores
+> * Front End 
 > * Infraestrutura e Interconectividade
 > * Inteligência Artificial e Computacional
 > * Java Advanced Frameworks
