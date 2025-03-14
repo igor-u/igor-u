@@ -5,7 +5,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>$\Large{\text{◾ Instituições de Ensino}}$</summary>
+<summary>$\Large{\text{◾ Formação}}$</summary>
 <br>
 
 > | $\Large{\color{#ED1165}\text{FIAP}}$ |
