@@ -12,7 +12,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > |---|
 >
 > <details>
-> <summary>$\large{\text{Análise e Desenvolvimento de Sistemas}}$</summary>
+> <summary>▪️Análise e Desenvolvimento de Sistemas</summary>
 > <br>
 > <b>Graduação orientada a projetos</b>
 > 
@@ -29,12 +29,12 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > </details>
 >
 > <details>
-> <summary>Nano Courses</summary>
+> <summary>▪️Nano Courses</summary>
 > <br>
 >
 > * Algoritmos: Aprenda a programar
 > * Banco de Dados Oracle
->* Big Data
+> * Big Data
 > * Big Data & Analytics
 > * Biohacking, Deep Web e Criptografia
 > * Blockchain
@@ -72,7 +72,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > |---|
 >
 > <details>
-> <summary>$\large{\text{Java}}$</summary>
+> <summary>▪️Java</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -98,7 +98,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > 
 > 
 > <details>
-> <summary>$\large{\text{DevOps}}$</summary>
+> <summary>▪️DevOps</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -152,7 +152,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > |---|
 > 
 > <details>
-> <summary>$\large{\text{Tecnologia e desenvolvimento pessoal}}$</summary>
+> <summary>▪️Tecnologia e desenvolvimento pessoal</summary>
 > <br>
 > 
 > * [Certificado de Conclusão](https://cursos.alura.com.br/user/igor-ribeiro2334/fullCertificate/9e0f7587c327aab62f9e18b0ba66617e)
