@@ -59,6 +59,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Linux Fundamentos
 > * Programação em Banco de Dados
 > * Python
+> * Python Development 
 > * Resolvendo Problemas com Matemática
 > * Responsive Web Development
 > * Sensores e Circuitos Digitais
