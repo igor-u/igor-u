@@ -8,9 +8,8 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 <summary>$\Large{\text{◾ Formação}}$</summary>
 <br>
 
-> | $\Large{\color{#ED1165}\text{FIAP}}$ |
+> $\Large{\color{#ED1165}\text{FIAP}}$
 > |---|
->
 > <details>
 > <summary>▪️Análise e Desenvolvimento de Sistemas</summary>
 > <br>
@@ -68,10 +67,10 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * User Experience
 >
 > </details>
->
+ 
 > ---
->
-> | $\Large{\color{#A6F750}\text{Ada Tech}}$ |
+
+> $\Large{\color{#A6F750}\text{Ada Tech}}$
 > |---|
 >
 > <details>
@@ -148,10 +147,10 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * SQS (enfileiramento de mensagens);
 > * Well-Architected Framework.
 > </details>
-> 
+
 > ---
-> 
-> | $\Large{\color{#216FF4}\text{Alura}}$ |
+
+> $\Large{\color{#216FF4}\text{Alura}}$
 > |---|
 > 
 > <details>
@@ -183,12 +182,11 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 
 <details>
 <summary>$\Large{\text{◾ Contato}}$</summary>
-    <br>
-    <a href="mailto:igor.ribeiro2334@gmail.com">
-    <img height=20 src="assets/Gmail.svg" >
-    </a>
-    <br>
-    <a  href="https://www.linkedin.com/in/igorribeiro12/">
-    <img height=20 src="assets/LinkedIn.svg">
-    </a>
+
+<br>
+
+> [![Gmail](assets/Gmail.svg)](mailto:igor.ribeiro2334@gmail.com)
+> |---|
+> [![LinkedIn](assets/LinkedIn.svg)](https://www.linkedin.com/in/igorribeiro12/)
+
 </details>
