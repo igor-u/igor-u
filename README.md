@@ -37,6 +37,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Big Data & Analytics
 > * Biohacking, Deep Web e Criptografia
 > * Blockchain
+> * Blockchain Advanced
 > * Cloud Fundamentals, Administration and Solution Architect
 > * Códigos de Alta Performance
 > * Comunicação e Semiótica
@@ -48,17 +49,17 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Engenharia de Software
 > * Estatística para Soluções em TI
 > * Estruturas de Computadores
-> * Front End 
+> * Front End
 > * Infraestrutura e Interconectividade
 > * Inteligência Artificial e Computacional
 > * Java Advanced Frameworks
-> * Java Development 
+> * Java Development
 > * Java Fundamentos
 > * Leadership Communication
 > * Linux Fundamentos
 > * Programação em Banco de Dados
 > * Python
-> * Python Development 
+> * Python Development
 > * Resolvendo Problemas com Matemática
 > * Responsive Web Development
 > * Sensores e Circuitos Digitais
