@@ -40,6 +40,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Blockchain Advanced
 > * Cloud Fundamentals, Administration and Solution Architect
 > * Códigos de Alta Performance
+> * Compliance e Quality Assurance
 > * Comunicação e Semiótica
 > * Cybersecurity
 > * Cybersecurity Hacker Skills
