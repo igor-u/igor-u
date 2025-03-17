@@ -65,6 +65,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Services Architecture / API / Mobile Architecture
 > * Soluções Tecnológicas Emergentes
 > * User Experience
+> * Wordpress na Prática
 >
 > </details>
  
