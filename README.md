@@ -47,6 +47,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Data Visualization
 > * Design Thinking
 > * DevOps & Agile Culture
+> * Django Web Framework
 > * Engenharia de Software
 > * Estatística para Soluções em TI
 > * Estruturas de Computadores
