@@ -51,6 +51,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Engenharia de Software
 > * Estatística para Soluções em TI
 > * Estruturas de Computadores
+> * Ethical Hacking
 > * Front End
 > * Infraestrutura e Interconectividade
 > * Inteligência Artificial e Computacional
