@@ -55,6 +55,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Front End
 > * Infraestrutura e Interconectividade
 > * Inteligência Artificial e Computacional
+> * Inteligência e Contrainteligência
 > * Java Advanced Frameworks
 > * Java Development
 > * Java Fundamentos
