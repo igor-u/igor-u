@@ -5,10 +5,10 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>$\Large{\text{◾ Formação}}$</summary>
+<summary>◾ Formação</summary>
 <br>
 
-> $\Large{\color{#ED1165}\text{FIAP}}$
+> FIAP
 > |---|
 > <details>
 > <summary>▪️Análise e Desenvolvimento de Sistemas</summary>
@@ -76,7 +76,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
  
 > ---
 
-> $\Large{\color{#A6F750}\text{Ada Tech}}$
+> Ada Tech
 > |---|
 >
 > <details>
@@ -156,7 +156,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 
 > ---
 
-> $\Large{\color{#216FF4}\text{Alura}}$
+> Alura
 > |---|
 > 
 > <details>
@@ -172,7 +172,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>$\Large{\text{◾ Estatísticas do GitHub}}$</summary>
+<summary>◾ Estatísticas do GitHub</summary>
 <br>
     
 <div align="center">
@@ -187,7 +187,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>$\Large{\text{◾ Contato}}$</summary>
+<summary>◾ Contato</summary>
 
 <br>
 
