@@ -5,13 +5,16 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>◾ Formação</summary>
+<summary>🎓 Formação</summary>
 <br>
 
-> FIAP
-> |---|
+> <table>
+>  <tr>
+>    <td> <a href=""> <img src="https://github.com/user-attachments/assets/bc581641-3815-448f-8ce8-18882751f6e1" width=48> <a/> </td>
+>   </tr> 
+> </table>
 > <details>
-> <summary>▪️Análise e Desenvolvimento de Sistemas</summary>
+> <summary>🖥️ Análise e Desenvolvimento de Sistemas</summary>
 > <br>
 > <b>Graduação orientada a projetos</b>
 > 
@@ -28,7 +31,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > </details>
 >
 > <details>
-> <summary>▪️Nano Courses</summary>
+> <summary>📚 Nano Courses</summary>
 > <br>
 >
 > * Algoritmos: Aprenda a programar
@@ -76,11 +79,14 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
  
 > ---
 
-> Ada Tech
-> |---|
+> <table>
+>  <tr>
+>    <td> <a href=""><img src="https://github.com/user-attachments/assets/cb6cedcb-56f4-49cc-b696-e1a710593d35" width=32><a/> </td>
+>   </tr> 
+> </table>
 >
 > <details>
-> <summary>▪️Java</summary>
+> <summary> <a href=""><img src="https://github.com/user-attachments/assets/b50da5f9-2a80-4fab-8cf4-a87514f48710" height=16><a/> Java</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -106,7 +112,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > 
 > 
 > <details>
-> <summary>▪️DevOps</summary>
+> <summary> <a href=""><img src="https://github.com/user-attachments/assets/c7f6d309-ab40-48c9-aea8-a18d22915606" height=14><a/> DevOps</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -118,7 +124,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > 
 > <b>Resumo</b><br>
 > 
-> 1. <b>Linux</b>:
+> <b> <a href=""><img src="https://github.com/user-attachments/assets/67ddf44d-1c75-4d6c-908c-5b70b893d278" height=16><a/> Linux</b>:
 > * Configuração de servidores web (Apache e NGINX);
 > * Configurações de rede;
 > * Gerenciamento de processos;
@@ -126,24 +132,24 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Shell scripts (automação de tarefas);
 > * Sistema de arquivos.
 > 
-> 2. <b>Git</b>:
+> <b> <a href=""><img src="https://github.com/user-attachments/assets/9cc5bac3-6bdc-4a78-a98d-41a17234827d" height=16><a/> Git</b>:
 > * GitHub Actions (automatização de fluxos de trabalho - implantação e testes);
 > * Padronização de nomenclatura para branches e commits;
 > * Serialização de dados (YAML e JSON).
 > 
-> 3. <b>Redes</b>:
+> <b>🌐 Redes</b>:
 > * Cálculos de sub-rede;
 > * Infraestrutura e dispositivos;
 > * Modelos OSI e TCP/IP;
 > * Segurança de rede.
 > 
-> 4. <b>Conteinerização</b>:
+> <b> <a href=""><img src="https://github.com/user-attachments/assets/d4ee501b-294a-4907-a82f-66e22dacecc0" height=16><a/> Conteinerização</b>:
 > * Docker.
 > 
-> 5. <b>Provisionamento como Código</b>:
+> <b> <a href=""><img src="https://github.com/user-attachments/assets/7daa54c7-92ff-477e-b0fd-b2195a660f10" height=16><a/> Provisionamento como Código</b>:
 > * Terraform.
 > 
-> 6. <b>Serviços Cloud (AWS)</b>:
+> <b>☁️ Serviços Cloud (AWS)</b>:
 > * EC2 (virtualização);
 > * IAM (controle de acesso);
 > * Lambda (execução de código);
@@ -156,11 +162,14 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 
 > ---
 
-> Alura
-> |---|
+> <table>
+>  <tr>
+>    <td> <a href=""><img src="https://github.com/user-attachments/assets/ca36fc1f-0533-4076-bf2f-2a42f3928990" width=32><a/> </td>
+>   </tr> 
+> </table>
 > 
 > <details>
-> <summary>▪️Tecnologia e Desenvolvimento Pessoal</summary>
+> <summary>💻 Tecnologia e Desenvolvimento Pessoal</summary>
 > <br>
 > 
 > * [Certificado de Conclusão](https://cursos.alura.com.br/user/igor-ribeiro2334/fullCertificate/9e0f7587c327aab62f9e18b0ba66617e)
@@ -172,7 +181,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>◾ Estatísticas do GitHub</summary>
+<summary>📊 Estatísticas do GitHub</summary>
 <br>
     
 <div align="center">
@@ -187,7 +196,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 ---
 
 <details>
-<summary>◾ Contato</summary>
+<summary>📞 Contato</summary>
 
 <br>
 
