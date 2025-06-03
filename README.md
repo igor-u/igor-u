@@ -33,6 +33,8 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > <details>
 > <summary>📚 Nano Courses</summary>
 > <br>
+> <b>Cursos de curta duração</b>
+> <br><br>
 >
 > * Algoritmos: Aprenda a programar
 > * Banco de Dados Oracle
