@@ -86,7 +86,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > </table>
 >
 > <details>
-> <summary> <a href=""><img src="https://github.com/user-attachments/assets/b50da5f9-2a80-4fab-8cf4-a87514f48710" height=16><a/> Java</summary>
+> <summary> <a href=""><img src="https://github.com/user-attachments/assets/b50da5f9-2a80-4fab-8cf4-a87514f48710" height=16><a/> Web Back-End (Java) - Santander Coders 2023 | 2º Semestre</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -112,7 +112,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > 
 > 
 > <details>
-> <summary> <a href=""><img src="https://github.com/user-attachments/assets/c7f6d309-ab40-48c9-aea8-a18d22915606" height=14><a/> DevOps</summary>
+> <summary> <a href=""><img src="https://github.com/user-attachments/assets/c7f6d309-ab40-48c9-aea8-a18d22915606" height=14><a/> DevOps - Santander Coders 2024 | 1º Semestre</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
