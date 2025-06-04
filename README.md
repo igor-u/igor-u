@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d32a11de-2265-45a2-a861-3dd117be0eb3" width=540>
+</p>
+
 #### Bem-vindo ao meu GitHub! 👋
 
 Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levou a desenvolver um conjunto diversificado de habilidades e interesses, com foco em desenvolvimento web, DevOps e segurança da informação.
