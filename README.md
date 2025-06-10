@@ -92,7 +92,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > </table>
 >
 > <details>
-> <summary> <a href="#"><img src="https://github.com/user-attachments/assets/b50da5f9-2a80-4fab-8cf4-a87514f48710" height=16><a/> Web Back-End (Java) - Santander Coders 2023 | 2º Semestre</summary>
+> <summary>☕ Web Back-End (Java) - Santander Coders 2023 | 2º Semestre</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -118,7 +118,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > 
 > 
 > <details>
-> <summary> <a href="#"><img src="https://github.com/user-attachments/assets/c7f6d309-ab40-48c9-aea8-a18d22915606" height=14><a/> DevOps - Santander Coders 2024 | 1º Semestre</summary>
+> <summary>♻️ DevOps - Santander Coders 2024 | 1º Semestre</summary>
 > <br>
 > <b>Formação online síncrona</b>
 > 
@@ -130,7 +130,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > 
 > <b>Resumo</b><br>
 > 
-> <b> <a href="#"><img src="https://github.com/user-attachments/assets/67ddf44d-1c75-4d6c-908c-5b70b893d278" height=16><a/> Linux</b>:
+> <b>🐧 Linux</b>:
 > * Configuração de servidores web (Apache e NGINX);
 > * Configurações de rede;
 > * Gerenciamento de processos;
@@ -138,7 +138,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Shell scripts (automação de tarefas);
 > * Sistema de arquivos.
 > 
-> <b> <a href="#"><img src="https://github.com/user-attachments/assets/9cc5bac3-6bdc-4a78-a98d-41a17234827d" height=16><a/> Git</b>:
+> <b>🔶 Git</b>:
 > * GitHub Actions (automatização de fluxos de trabalho - implantação e testes);
 > * Padronização de nomenclatura para branches e commits;
 > * Serialização de dados (YAML e JSON).
@@ -149,10 +149,10 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Modelos OSI e TCP/IP;
 > * Segurança de rede.
 > 
-> <b> <a href="#"><img src="https://github.com/user-attachments/assets/d4ee501b-294a-4907-a82f-66e22dacecc0" height=16><a/> Conteinerização</b>:
+> <b>🐋 Conteinerização</b>:
 > * Docker.
 > 
-> <b> <a href="#"><img src="https://github.com/user-attachments/assets/7daa54c7-92ff-477e-b0fd-b2195a660f10" height=16><a/> Provisionamento como Código</b>:
+> <b>⚙️ Provisionamento como Código</b>:
 > * Terraform.
 > 
 > <b>☁️ Serviços Cloud (AWS)</b>:
