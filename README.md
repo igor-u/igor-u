@@ -20,7 +20,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > <details>
 > <summary>🖥️ Análise e Desenvolvimento de Sistemas</summary>
 > <br>
-> <b>Graduação orientada a projetos</b>
+> <b>Graduação com foco em Project-Based Learning (PBL)</b>
 > 
 > <br>Data de início: 15/08/2023
 > <br>
