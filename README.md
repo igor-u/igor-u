@@ -71,6 +71,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Leadership Communication
 > * Linux Fundamentos
 > * Programação em Banco de Dados
+> * Programação para Jogos Digitais
 > * Python
 > * Python Development
 > * Resolvendo Problemas com Matemática
