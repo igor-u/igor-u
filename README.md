@@ -14,7 +14,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 
 > <table>
 >  <tr>
->    <td> <a href="#"> <img src="https://github.com/user-attachments/assets/bc581641-3815-448f-8ce8-18882751f6e1" width=48> <a/> </td>
+>    <td> <a href="#"> <img src="https://github.com/user-attachments/assets/bc581641-3815-448f-8ce8-18882751f6e1" height=14> <a/> </td>
 >   </tr> 
 > </table>
 > <details>
@@ -88,7 +88,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 
 > <table>
 >  <tr>
->    <td> <a href="#"><img src="https://github.com/user-attachments/assets/cb6cedcb-56f4-49cc-b696-e1a710593d35" width=32><a/> </td>
+>    <td> <a href="#"><img src="https://github.com/user-attachments/assets/cb6cedcb-56f4-49cc-b696-e1a710593d35" height=14><a/> </td>
 >   </tr> 
 > </table>
 >
@@ -171,7 +171,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 
 > <table>
 >  <tr>
->    <td> <a href="#"><img src="https://github.com/user-attachments/assets/ca36fc1f-0533-4076-bf2f-2a42f3928990" width=32><a/> </td>
+>    <td> <a href="#"><img src="https://github.com/user-attachments/assets/ca36fc1f-0533-4076-bf2f-2a42f3928990" height=14><a/> </td>
 >   </tr> 
 > </table>
 > 
@@ -180,6 +180,22 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > <br>
 > 
 > * [Certificado de Conclusão](https://cursos.alura.com.br/user/igor-ribeiro2334/fullCertificate/9e0f7587c327aab62f9e18b0ba66617e)
+> 
+> </details>
+
+> ---
+
+> <table>
+>  <tr>
+>    <td> <a href="#"><img src="https://github.com/user-attachments/assets/f7e65f68-aced-4ae4-b4bd-6bb6330bb5a1" height=9><a/> </td>
+>   </tr> 
+> </table>
+> 
+> <details>
+> <summary>💻 Ciência de Dados e Segurança Cibernética</summary>
+> <br>
+> 
+> * [Perfil](https://www.coursera.org/user/2c2c42d8f55a9ce8a37d38fe9e82aed9)
 > 
 > </details>
 
