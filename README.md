@@ -192,7 +192,7 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > </table>
 > 
 > <details>
-> <summary>💻 Ciência de Dados e Segurança Cibernética</summary>
+> <summary>🔐 Ciência de Dados e Segurança Cibernética</summary>
 > <br>
 > 
 > * [Perfil](https://www.coursera.org/user/2c2c42d8f55a9ce8a37d38fe9e82aed9)
