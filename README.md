@@ -83,9 +83,16 @@ Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levo
 > * Wordpress na Prática
 >
 > </details>
- 
+>
+> <details>
+> <summary>🔍 Future Makers</summary>
+> <br>
+> <b>Iniciação Científica</b>
+> <br><br>
+> Fiz parte de uma equipe que desenvolveu um jogo que se comunicava com um serviço de visão computacional para registrar eventos de reciclagem. A cada reciclagem, era gerado um QR Code, e o jogo
+> era capaz de abrir a câmera do dispositivo para escanear o código, que era convertido em alimento para um pet virtual.
+> 
 > ---
-
 > <table>
 >  <tr>
 >    <td> <a href="#"><img src="https://github.com/user-attachments/assets/cb6cedcb-56f4-49cc-b696-e1a710593d35" height=14><a/> </td>
