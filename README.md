@@ -4,7 +4,7 @@
 
 #### Bem-vindo ao meu GitHub! 👋
 
-Sou um estudante de tecnologia em constante aprimoramento. Minha jornada me levou a desenvolver um conjunto diversificado de habilidades e interesses, com foco em desenvolvimento web, DevOps e segurança da informação.
+Sou um profissional de tecnologia em constante aprimoramento. Minha jornada me levou a desenvolver um conjunto diversificado de habilidades e interesses, com foco em desenvolvimento web, DevOps e segurança da informação. Atualmente estou estudando SRE.
 
 ---
 
