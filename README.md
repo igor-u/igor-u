@@ -94,8 +94,8 @@ Sou um profissional de tecnologia em constante aprimoramento. Minha jornada me l
 > <b>Ferramentas</b><br><br>
 >
 > <b>🎮 Unity</b>:
-> * Comunicação com backend .NET (por requisições HTTP);
-> * Comunicação com serviço de visão computacional (por scan de QR Code);
+> * Comunicação com backend .NET por requisições HTTP;
+> * Comunicação com serviço de visão computacional por scan de QR Code;
 > * Desenvolvimento do jogo para sistemas Android.
 > 
 > <b>🔋 .NET</b>:
@@ -110,7 +110,7 @@ Sou um profissional de tecnologia em constante aprimoramento. Minha jornada me l
 > 
 > <b>📷 Roboflow</b>:
 > * Roboflow Inference Server com Python, para reconhecimento de imagens de material reciclável;
-> * Comunicação com backend (por envio de assinatura digital e dados de reciclagem);
+> * Comunicação com backend por envio de assinatura digital e dados de reciclagem;
 > * Flask Web App para exibição de QR Code.
 > 
 > <b>🌩️ Microsoft Azure</b>:
