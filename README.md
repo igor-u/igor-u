@@ -24,13 +24,12 @@ Sou um profissional de tecnologia em constante aprimoramento. Minha jornada me l
 > 
 > <br>Data de início: 15/08/2023
 > <br>
-> Em andamento<br>
+> Data de conclusão: 30/06/2025<br>
 >
 > <b>Resumo</b><br>
 >
-> * Desenvolvo meu conhecimento teórico e minhas habilidades de programação;
-> * O trabalho em equipe é fortemente incentivado. Busco ser comunicativo e usar linguagem clara;
-> * Atualmente estou aprendendo sobre microsserviços e segurança da informação.
+> * Desenvolvi meu conhecimento teórico e minhas habilidades de programação e de arquitetura de sistemas;
+> * O trabalho em equipe era fortemente incentivado. Busquei ser comunicativo e usar linguagem clara;
 >
 > </details>
 >
@@ -91,7 +90,34 @@ Sou um profissional de tecnologia em constante aprimoramento. Minha jornada me l
 > <br><br>
 > Fiz parte de uma equipe que desenvolveu um jogo que se comunicava com um serviço de visão computacional para registrar eventos de reciclagem. A cada reciclagem, era gerado um QR Code, e o jogo
 > era capaz de abrir a câmera do dispositivo para escanear o código, que era convertido em alimento para um pet virtual.
+> <br><br>
+> <b>Ferramentas</b><br><br>
+>
+> <b>🎮 Unity</b>:
+> * Comunicação com backend .NET (por requisições HTTP);
+> * Comunicação com serviço de visão computacional (por scan de QR Code);
+> * Desenvolvimento do jogo para sistemas Android.
 > 
+> <b>🔋 .NET</b>:
+> * Comunicação com MongoDB;
+> * Login e registro de usuários;
+> * Registro de reciclagens.
+> * Validação da assinatura digital do serviço de visão computacional;
+> 
+> <b>💾 MongoDB</b>:
+> * Armazenamento de dados dos jogadores;
+> * Armazenamento de registros de reciclagem.
+> 
+> <b>📷 Roboflow</b>:
+> * Roboflow Inference Server com Python, para reconhecimento de imagens de material reciclável;
+> * Comunicação com backend (por envio de assinatura digital e dados de reciclagem);
+> * Flask Web App para exibição de QR Code.
+> 
+> <b>🌩️ Microsoft Azure</b>:
+> * Hospedagem de backend em máquina virtual;
+> * Hospedagem do serviço de visão computacional em máquina virtual;
+> * Hospedagem de MongoDB em Azure Cosmos DB.
+>
 > ---
 > <table>
 >  <tr>
